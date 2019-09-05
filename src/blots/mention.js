@@ -1,4 +1,4 @@
-import Quill from 'quill';
+import Quill from 'vue-quill-editor/node_modules/quill';
 
 const Embed = Quill.import('blots/embed');
 
