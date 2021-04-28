@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 exports.default = void 0;
-var _quill = _interopRequireDefault(require("vue-quill-editor/node_modules/quill"));
+var _quill = _interopRequireDefault(require("quill"));
 var _keys = _interopRequireDefault(require("./constants/keys"));
 require("./quill.mention.css");
 require("./blots/mention");
