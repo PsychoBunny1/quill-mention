@@ -57,7 +57,7 @@
     "jshint": "^2.9.5",
     "style-loader": "^0.19.1",
     "uglifyjs-webpack-plugin": "^1.1.6",
-    "webpack": "4.19.1",
+    "webpack": "5.94.0",
     "webpack-cli": "^2.0.10",
     "webpack-dev-server": ">=3.1.11",
     "webpack-merge": "^4.2.1"
